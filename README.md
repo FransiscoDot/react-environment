@@ -1,4 +1,4 @@
-# javascript-environment
+# javascript-environment with react
 
 Environment configuration
 - install 'editorconfig' plugin
