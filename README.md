@@ -14,6 +14,9 @@ Web development server:
 - add js for define port and open the app
 - add webpack-dev-middlware 
 
+React configuration
+- install react
+
 Ordered list of steps:
 - install 'editorconfig' plugin
 - add .editorconfig for define indent-style and other options
