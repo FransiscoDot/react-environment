@@ -2,8 +2,12 @@
   "name": "javascript-development-environment",
   "version": "1.0.0",
   "description": "JavaScript development environment",
-  "scripts": {
-  },
+  "scripts": {},
   "author": "Francesco Megna",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "open": "0.0.5",
+    "react": "^16.2.0"
+  }
 }
