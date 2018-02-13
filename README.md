@@ -17,8 +17,6 @@ Web development server:
 React configuration
 - install react and react-dom
 - install babel-presect-react and add .babelrc 
-- install react-router
-- install redux
 
 Ordered list of steps:
 - install 'editorconfig' plugin
