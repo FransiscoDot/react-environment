@@ -1,0 +1,9 @@
+{
+  "name": "javascript-development-environment",
+  "version": "1.0.0",
+  "description": "JavaScript development environment",
+  "scripts": {
+  },
+  "author": "Francesco Megna",
+  "license": "MIT"
+}
