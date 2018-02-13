@@ -15,7 +15,8 @@ Web development server:
 - add webpack-dev-middlware 
 
 React configuration
-- install react
+- install react and react-dom
+- install babel-presect-react and add .babelrc 
 - install react-router
 - install redux
 
@@ -30,3 +31,6 @@ Ordered list of steps:
 - install webpack and webpack-dev-middleware, add webpack configuration and attached the bundle created by webpack to html
 - add webpack-dev-middlware to srcServer.js
 - install eslint and related modules, add .eslintrc.json for defined rules, add scripts for run lint and lint:watch
+- install react and react-dom
+- install babel-presect-react and add .babelrc 
+- add App component and render in index.js
