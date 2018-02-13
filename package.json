@@ -3,17 +3,22 @@
   "version": "1.0.0",
   "description": "JavaScript development environment",
   "scripts": {
-    "prestart": "node tools/startMessage.js",
+    "prestart": "babel-node tools/startMessage.js",
     "start": "npm-run-all --parallel open:src",
-    "open:src": "node tools/srcServer.js"
+    "open:src": "babel-node tools/srcServer.js"
   },
   "author": "Francesco Megna",
   "license": "MIT",
   "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
     "chalk": "^2.3.1",
     "express": "^4.16.2",
     "npm-run-all": "^4.1.2",
     "open": "0.0.5",
     "react": "^16.2.0"
-  }
+  },
+  "devDependencies": {}
 }
