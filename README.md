@@ -17,6 +17,7 @@ Web development server:
 React configuration
 - install react
 - install react-router
+- install redux
 
 Ordered list of steps:
 - install 'editorconfig' plugin
